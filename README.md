@@ -1,2 +1,2 @@
 # Image-Processing-Workshop
-IEEE workshop on IP 2017- All codes
+All code done in IEEE workshop on IP (Dec 2017) 
